@@ -1,0 +1,31 @@
+{
+  "os": "Linux-5.14.0-427.40.1.el9_4.x86_64-x86_64-with-glibc2.34",
+  "python": "3.10.12",
+  "startedAt": "2024-11-30T04:57:51.793931Z",
+  "program": "/scratch/st-sielmann-1/agrobot/Weed-Detection/two-stage-detection/detectron2_train.py",
+  "codePath": "two-stage-detection/detectron2_train.py",
+  "git": {
+    "remote": "https://github.com/UBCAgroBot/Weed-Detection.git",
+    "commit": "0086a1b7694f59165b876885ca69ea8464bcb2d8"
+  },
+  "root": "/scratch/st-sielmann-1/agrobot/Weed-Detection/two-stage-detection",
+  "host": "login02",
+  "username": "nlin06",
+  "executable": "/home/nlin06/miniconda3/envs/two-stage-weed/bin/python",
+  "codePathLocal": "detectron2_train.py",
+  "cpu_count": 16,
+  "cpu_count_logical": 16,
+  "disk": {
+    "/": {
+      "total": "100677955584",
+      "used": "4079325184"
+    }
+  },
+  "memory": {
+    "total": "201355911168"
+  },
+  "cpu": {
+    "count": 16,
+    "countLogical": 16
+  }
+}

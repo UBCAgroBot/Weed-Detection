@@ -1,0 +1,15 @@
+{"time":"2024-11-29T20:57:04.741053603-08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T20:57:04.741313149-08:00","level":"INFO","msg":"created symlink","path":"/scratch/st-sielmann-1/agrobot/Weed-Detection/two-stage-detection/wandb/offline-run-20241129_205704-j3ayrxxf/logs/debug-core.log"}
+{"time":"2024-11-29T20:57:04.927714477-08:00","level":"INFO","msg":"created new stream","id":"j3ayrxxf"}
+{"time":"2024-11-29T20:57:04.927800568-08:00","level":"INFO","msg":"stream: started","id":"j3ayrxxf"}
+{"time":"2024-11-29T20:57:04.927822136-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"j3ayrxxf"}
+{"time":"2024-11-29T20:57:04.927901919-08:00","level":"INFO","msg":"handler: started","stream_id":"j3ayrxxf"}
+{"time":"2024-11-29T20:57:04.927824711-08:00","level":"INFO","msg":"sender: started","stream_id":"j3ayrxxf"}
+{"time":"2024-11-29T20:57:04.939620691-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T20:57:07.93398863-08:00","level":"INFO","msg":"stream: closing","id":"j3ayrxxf"}
+{"time":"2024-11-29T20:57:07.934084097-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T20:57:07.934693776-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T20:57:07.934943051-08:00","level":"INFO","msg":"handler: closed","stream_id":"j3ayrxxf"}
+{"time":"2024-11-29T20:57:07.934970498-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"j3ayrxxf"}
+{"time":"2024-11-29T20:57:07.935000272-08:00","level":"INFO","msg":"sender: closed","stream_id":"j3ayrxxf"}
+{"time":"2024-11-29T20:57:07.935603691-08:00","level":"INFO","msg":"stream: closed","id":"j3ayrxxf"}

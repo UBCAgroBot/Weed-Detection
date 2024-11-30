@@ -1,0 +1,25 @@
+2024-11-29 21:25:45,889 INFO    MainThread:4122231 [wandb_setup.py:_flush():79] Current SDK version is 0.18.7
+2024-11-29 21:25:45,889 INFO    MainThread:4122231 [wandb_setup.py:_flush():79] Configure stats pid to 4122231
+2024-11-29 21:25:45,889 INFO    MainThread:4122231 [wandb_setup.py:_flush():79] Loading settings from /home/nlin06/.config/wandb/settings
+2024-11-29 21:25:45,889 INFO    MainThread:4122231 [wandb_setup.py:_flush():79] Loading settings from /scratch/st-sielmann-1/agrobot/Weed-Detection/two-stage-detection/wandb/settings
+2024-11-29 21:25:45,890 INFO    MainThread:4122231 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'_service_wait': '300'}
+2024-11-29 21:25:45,890 INFO    MainThread:4122231 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': 'offline', '_disable_service': None}
+2024-11-29 21:25:45,890 INFO    MainThread:4122231 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'detectron2_train.py', 'program_abspath': '/scratch/st-sielmann-1/agrobot/Weed-Detection/two-stage-detection/detectron2_train.py', 'program': '/scratch/st-sielmann-1/agrobot/Weed-Detection/two-stage-detection/detectron2_train.py'}
+2024-11-29 21:25:45,890 INFO    MainThread:4122231 [wandb_init.py:_log_setup():533] Logging user logs to /scratch/st-sielmann-1/agrobot/Weed-Detection/two-stage-detection/wandb/offline-run-20241129_212545-1bnhev39/logs/debug.log
+2024-11-29 21:25:45,890 INFO    MainThread:4122231 [wandb_init.py:_log_setup():534] Logging internal logs to /scratch/st-sielmann-1/agrobot/Weed-Detection/two-stage-detection/wandb/offline-run-20241129_212545-1bnhev39/logs/debug-internal.log
+2024-11-29 21:25:45,890 INFO    MainThread:4122231 [wandb_init.py:init():619] calling init triggers
+2024-11-29 21:25:45,890 INFO    MainThread:4122231 [wandb_init.py:init():626] wandb.init called with sweep_config: {}
+config: {}
+2024-11-29 21:25:45,890 INFO    MainThread:4122231 [wandb_init.py:init():669] starting backend
+2024-11-29 21:25:45,890 INFO    MainThread:4122231 [wandb_init.py:init():673] sending inform_init request
+2024-11-29 21:25:45,892 INFO    MainThread:4122231 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-11-29 21:25:45,892 INFO    MainThread:4122231 [wandb_init.py:init():686] backend started and connected
+2024-11-29 21:25:45,896 INFO    MainThread:4122231 [wandb_init.py:init():781] updated telemetry
+2024-11-29 21:25:45,896 INFO    MainThread:4122231 [wandb_init.py:init():814] communicating run to backend with 90.0 second timeout
+2024-11-29 21:25:46,111 INFO    MainThread:4122231 [wandb_init.py:init():867] starting run threads in backend
+2024-11-29 21:25:47,476 INFO    MainThread:4122231 [wandb_run.py:_console_start():2456] atexit reg
+2024-11-29 21:25:47,476 INFO    MainThread:4122231 [wandb_run.py:_redirect():2305] redirect: wrap_raw
+2024-11-29 21:25:47,476 INFO    MainThread:4122231 [wandb_run.py:_redirect():2370] Wrapping output streams.
+2024-11-29 21:25:47,477 INFO    MainThread:4122231 [wandb_run.py:_redirect():2395] Redirects installed.
+2024-11-29 21:25:47,489 INFO    MainThread:4122231 [wandb_init.py:init():911] run started, returning control to user process
+2024-11-29 21:26:13,670 WARNING MsgRouterThr:4122231 [router.py:message_loop():75] message_loop has been closed

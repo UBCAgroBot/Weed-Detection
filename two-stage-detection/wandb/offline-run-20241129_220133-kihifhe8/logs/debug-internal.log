@@ -1,0 +1,16 @@
+{"time":"2024-11-29T22:01:33.789167741-08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T22:01:33.78939548-08:00","level":"INFO","msg":"created symlink","path":"/scratch/st-sielmann-1/agrobot/Weed-Detection/two-stage-detection/wandb/offline-run-20241129_220133-kihifhe8/logs/debug-core.log"}
+{"time":"2024-11-29T22:01:33.971755269-08:00","level":"INFO","msg":"created new stream","id":"kihifhe8"}
+{"time":"2024-11-29T22:01:33.971834829-08:00","level":"INFO","msg":"stream: started","id":"kihifhe8"}
+{"time":"2024-11-29T22:01:33.97185542-08:00","level":"INFO","msg":"handler: started","stream_id":"kihifhe8"}
+{"time":"2024-11-29T22:01:33.971855114-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"kihifhe8"}
+{"time":"2024-11-29T22:01:33.971866183-08:00","level":"INFO","msg":"sender: started","stream_id":"kihifhe8"}
+{"time":"2024-11-29T22:01:33.980392309-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T22:06:29.599806083-08:00","level":"INFO","msg":"tensorboard: no root directory after 10 seconds, using working directory"}
+{"time":"2024-11-30T02:34:51.90134387-08:00","level":"INFO","msg":"stream: closing","id":"kihifhe8"}
+{"time":"2024-11-30T02:34:51.901400756-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-30T02:34:51.9152366-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-30T02:34:51.91729468-08:00","level":"INFO","msg":"handler: closed","stream_id":"kihifhe8"}
+{"time":"2024-11-30T02:34:51.917346673-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"kihifhe8"}
+{"time":"2024-11-30T02:34:51.917362289-08:00","level":"INFO","msg":"sender: closed","stream_id":"kihifhe8"}
+{"time":"2024-11-30T02:34:51.917724376-08:00","level":"INFO","msg":"stream: closed","id":"kihifhe8"}

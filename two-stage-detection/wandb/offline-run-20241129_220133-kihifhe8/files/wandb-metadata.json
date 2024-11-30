@@ -1,0 +1,86 @@
+{
+  "os": "Linux-5.14.0-427.40.1.el9_4.x86_64-x86_64-with-glibc2.34",
+  "python": "3.10.12",
+  "startedAt": "2024-11-30T06:01:33.787631Z",
+  "program": "/scratch/st-sielmann-1/agrobot/Weed-Detection/two-stage-detection/detectron2_train.py",
+  "codePath": "detectron2_train.py",
+  "root": "/scratch/st-sielmann-1/agrobot/Weed-Detection/two-stage-detection",
+  "host": "se063",
+  "username": "nlin06",
+  "executable": "/home/nlin06/miniconda3/envs/two-stage-weed/bin/python",
+  "codePathLocal": "detectron2_train.py",
+  "cpu_count": 24,
+  "cpu_count_logical": 24,
+  "gpu": "Tesla V100-SXM2-16GB",
+  "gpu_count": 2,
+  "disk": {
+    "/": {
+      "total": "100676763648",
+      "used": "4950867968"
+    }
+  },
+  "memory": {
+    "total": "201353531392"
+  },
+  "cpu": {
+    "count": 24,
+    "countLogical": 24
+  },
+  "gpu_nvidia": [
+    {
+      "name": "Tesla V100-SXM2-16GB",
+      "memoryTotal": "17179869184",
+      "cudaCores": 5120,
+      "architecture": "Volta"
+    },
+    {
+      "name": "Tesla V100-SXM2-16GB",
+      "memoryTotal": "17179869184",
+      "cudaCores": 5120,
+      "architecture": "Volta"
+    }
+  ],
+  "slurm": {
+    "cluster_name": "sockeye",
+    "conf": "/arc/system/opt/slurm-24.05.3/etc/slurm.conf",
+    "cpus_on_node": "8",
+    "cpus_per_task": "8",
+    "gpus_on_node": "2",
+    "gpus_per_node": "2",
+    "gtids": "0",
+    "job_account": "st-sielmann-1-gpu",
+    "job_cpus_per_node": "8",
+    "job_end_time": "1732989676",
+    "job_gid": "3561253",
+    "job_gpus": "0,1",
+    "job_id": "3423714",
+    "job_name": "weed-detection",
+    "job_nodelist": "se063",
+    "job_num_nodes": "1",
+    "job_partition": "gpu",
+    "job_qos": "normal",
+    "job_start_time": "1732946476",
+    "job_uid": "3561253",
+    "job_user": "nlin06",
+    "jobid": "3423714",
+    "localid": "0",
+    "mem_per_node": "12288",
+    "nnodes": "1",
+    "nodeid": "0",
+    "nodelist": "se063",
+    "nprocs": "1",
+    "ntasks": "1",
+    "prio_process": "0",
+    "procid": "0",
+    "script_context": "prolog_task",
+    "submit_dir": "/scratch/st-sielmann-1/agrobot/Weed-Detection/two-stage-detection",
+    "submit_host": "login01",
+    "task_pid": "1782719",
+    "tasks_per_node": "1",
+    "tmpdir": "/tmp/slurm/3423714",
+    "topology_addr": "se063",
+    "topology_addr_pattern": "node",
+    "tres_per_task": "cpu=8"
+  },
+  "cudaVersion": "12.4"
+}

@@ -1,0 +1,16 @@
+{"time":"2024-11-29T21:52:07.18220156-08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-29T21:52:07.183498614-08:00","level":"INFO","msg":"created symlink","path":"/scratch/st-sielmann-1/agrobot/Weed-Detection/two-stage-detection/wandb/offline-run-20241129_215204-837vg6c8/logs/debug-core.log"}
+{"time":"2024-11-29T21:52:07.485891467-08:00","level":"INFO","msg":"created new stream","id":"837vg6c8"}
+{"time":"2024-11-29T21:52:07.485996782-08:00","level":"INFO","msg":"stream: started","id":"837vg6c8"}
+{"time":"2024-11-29T21:52:07.486125999-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"837vg6c8"}
+{"time":"2024-11-29T21:52:07.486275094-08:00","level":"INFO","msg":"handler: started","stream_id":"837vg6c8"}
+{"time":"2024-11-29T21:52:07.486199-08:00","level":"INFO","msg":"sender: started","stream_id":"837vg6c8"}
+{"time":"2024-11-29T21:52:07.520137451-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-29T21:54:27.151018429-08:00","level":"INFO","msg":"stream: closing","id":"837vg6c8"}
+{"time":"2024-11-29T21:54:27.151307084-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-29T21:54:27.156067066-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-29T21:54:37.058309811-08:00","level":"INFO","msg":"tensorboard: no root directory after 10 seconds, using working directory"}
+{"time":"2024-11-29T21:54:37.06268663-08:00","level":"INFO","msg":"handler: closed","stream_id":"837vg6c8"}
+{"time":"2024-11-29T21:54:37.062738463-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"837vg6c8"}
+{"time":"2024-11-29T21:54:37.062846584-08:00","level":"INFO","msg":"sender: closed","stream_id":"837vg6c8"}
+{"time":"2024-11-29T21:54:37.063165476-08:00","level":"INFO","msg":"stream: closed","id":"837vg6c8"}
