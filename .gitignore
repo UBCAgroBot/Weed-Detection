@@ -1,5 +1,13 @@
+.dvc/
+datasets/
+augmented_datasets/
 
-/datasets
-/two-stage-detection/detectron2
-/two-stage-detection/pretrained_weights
-/two-stage-detection/output
+two-stage-detection/detectron2/
+two-stage-detection/pretrained_weights/
+two-stage-detection/output/
+
+one-stage-detection/yolov5/
+one-stage-detection/pretrained_weights/
+one-stage-detection/output/
+
+

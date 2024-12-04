@@ -22,3 +22,8 @@ This project will be split into two teams: one-stage object detection and two-st
 * **Data Sources:** RoboFlow, Kaggle, agricultural image databases
 
 
+### **Common Mistakes**
+
+* when adding a dataset or a large file, make sure to add it to the .gitignore file so it is not uploaded to github
+
+

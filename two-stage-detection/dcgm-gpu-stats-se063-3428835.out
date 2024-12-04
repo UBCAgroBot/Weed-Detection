@@ -1,0 +1,69 @@
+Successfully retrieved statistics for job: 3428835. 
++------------------------------------------------------------------------------+
+| GPU ID: 0                                                                    |
++====================================+=========================================+
+|-----  Execution Stats  ------------+-----------------------------------------|
+| Start Time                         | Sat Nov 30 12:42:07 2024                |
+| End Time                           | Sat Nov 30 12:42:16 2024                |
+| Total Execution Time (sec)         | 9.04                                    |
+| No. of Processes                   | 0                                       |
++-----  Performance Stats  ----------+-----------------------------------------+
+| Energy Consumed (Joules)           | 0                                       |
+| Power Usage (Watts)                | Avg: 39.859, Max: 39.859, Min: 39.859   |
+| Max GPU Memory Used (bytes)        | 0                                       |
+| SM Clock (MHz)                     | Avg: 0, Max: 0, Min: 0                  |
+| Memory Clock (MHz)                 | Avg: 0, Max: 0, Min: 0                  |
+| SM Utilization (%)                 | Avg: 0, Max: 0, Min: 0                  |
+| Memory Utilization (%)             | Avg: 0, Max: 0, Min: 0                  |
+| PCIe Rx Bandwidth (megabytes)      | Avg: 0, Max: 0, Min: 0                  |
+| PCIe Tx Bandwidth (megabytes)      | Avg: 0, Max: 0, Min: 0                  |
++-----  Event Stats  ----------------+-----------------------------------------+
+| Single Bit ECC Errors              | 0                                       |
+| Double Bit ECC Errors              | Not Specified                           |
+| PCIe Replay Warnings               | Not Specified                           |
+| Critical XID Errors                | 0                                       |
++-----  Slowdown Stats  -------------+-----------------------------------------+
+| Due to - Power (%)                 | Not Supported                           |
+|        - Thermal (%)               | Not Supported                           |
+|        - Reliability (%)           | Not Supported                           |
+|        - Board Limit (%)           | Not Supported                           |
+|        - Low Utilization (%)       | Not Supported                           |
+|        - Sync Boost (%)            | Not Specified                           |
++-----  Overall Health  -------------+-----------------------------------------+
+| Overall Health                     | Healthy                                 |
++------------------------------------+-----------------------------------------+
+
++------------------------------------------------------------------------------+
+| GPU ID: 1                                                                    |
++====================================+=========================================+
+|-----  Execution Stats  ------------+-----------------------------------------|
+| Start Time                         | Sat Nov 30 12:42:07 2024                |
+| End Time                           | Sat Nov 30 12:42:16 2024                |
+| Total Execution Time (sec)         | 9.04                                    |
+| No. of Processes                   | 0                                       |
++-----  Performance Stats  ----------+-----------------------------------------+
+| Energy Consumed (Joules)           | 0                                       |
+| Power Usage (Watts)                | Avg: 40.398, Max: 40.398, Min: 40.398   |
+| Max GPU Memory Used (bytes)        | 0                                       |
+| SM Clock (MHz)                     | Avg: 0, Max: 0, Min: 0                  |
+| Memory Clock (MHz)                 | Avg: 0, Max: 0, Min: 0                  |
+| SM Utilization (%)                 | Avg: 0, Max: 0, Min: 0                  |
+| Memory Utilization (%)             | Avg: 0, Max: 0, Min: 0                  |
+| PCIe Rx Bandwidth (megabytes)      | Avg: 0, Max: 0, Min: 0                  |
+| PCIe Tx Bandwidth (megabytes)      | Avg: 0, Max: 0, Min: 0                  |
++-----  Event Stats  ----------------+-----------------------------------------+
+| Single Bit ECC Errors              | 0                                       |
+| Double Bit ECC Errors              | Not Specified                           |
+| PCIe Replay Warnings               | Not Specified                           |
+| Critical XID Errors                | 0                                       |
++-----  Slowdown Stats  -------------+-----------------------------------------+
+| Due to - Power (%)                 | Not Supported                           |
+|        - Thermal (%)               | Not Supported                           |
+|        - Reliability (%)           | Not Supported                           |
+|        - Board Limit (%)           | Not Supported                           |
+|        - Low Utilization (%)       | Not Supported                           |
+|        - Sync Boost (%)            | Not Specified                           |
++-----  Overall Health  -------------+-----------------------------------------+
+| Overall Health                     | Healthy                                 |
++------------------------------------+-----------------------------------------+
+
