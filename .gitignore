@@ -5,6 +5,8 @@ augmented_datasets/
 two-stage-detection/detectron2/
 two-stage-detection/pretrained_weights/
 two-stage-detection/output/
+two-stage-detection/logs/
+two-stage-detection/wandb/
 
 one-stage-detection/yolov5/
 one-stage-detection/pretrained_weights/
