@@ -9,6 +9,7 @@ two-stage-detection/logs/
 two-stage-detection/wandb/
 
 one-stage-detection/yolov5/
+one-stage-detection/yolov5-trained/
 one-stage-detection/pretrained_weights/
 one-stage-detection/output/
 
